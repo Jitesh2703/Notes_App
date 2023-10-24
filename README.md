@@ -5,8 +5,7 @@ values keeping track of important details, Notes offers a simple yet powerful so
 
 ## ✨ Features:
 - Instant Notes.
-- Privacy and Security
-- Backup and Restore.
+- Privacy and Security.
 - Write & edit your notes effortlessly
 <br /><br />
 
